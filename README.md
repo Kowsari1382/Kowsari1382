@@ -61,3 +61,7 @@ I hope I can help make the world a better place! 🌍
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kowsari1382)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kowsari1382&layout=compact)](https://github.com/Kowsari1382)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kowsari1382&show_icons=true&theme=radical)](https://github.com/Kowsari1382)
