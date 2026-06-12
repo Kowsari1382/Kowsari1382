@@ -21,13 +21,13 @@ I'm currently an MSc student at Azad University. I'm eager to learn new things a
 My main areas of expertise are backend development, software architecture, and machine learning.
 I hope I can help make the world a better place! 🌍
 
-🔭 I’m currently working on developing scalable backend systems and machine learning.
-🌱 I’m currently learning Deep Learning.
-👯 I’m looking to collaborate on projects related to backend, AI, or developer tools.
-🤔 I’m looking for help with advanced system design patterns and production-grade ML deployment.
-💬 Ask me about Node.js, Python, C#, databases, software architecture, or how to start with machine learning.
-📫 How to reach me:
-Gmail: [s.kovsarii@gmail.com](mailto:s.kovsarii@gmail.com)
-LinkedIn: [linkedin.com/in/sajjad-kowsari](https://www.linkedin.com/in/sajjad-kowsari-0b5262278)
-😄 Pronouns: He/Him
-⚡ Fun fact: Sometimes I dream about my projects that I'm working on at midnight!
+- 🔭 I’m currently working on developing scalable backend systems and machine learning.
+- 🌱 I’m currently learning Deep Learning.
+- 👯 I’m looking to collaborate on projects related to backend, AI, or developer tools.
+- 🤔 I’m looking for help with advanced system design patterns and production-grade ML deployment.
+- 💬 Ask me about Node.js, Python, C#, databases, software architecture, or how to start with machine learning.
+- 📫 How to reach me:
+- Gmail: [s.kovsarii@gmail.com](mailto:s.kovsarii@gmail.com)
+- LinkedIn: [linkedin.com/in/sajjad-kowsari](https://www.linkedin.com/in/sajjad-kowsari-0b5262278)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Sometimes I dream about my projects that I'm working on at midnight!
