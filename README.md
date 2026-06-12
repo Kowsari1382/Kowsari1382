@@ -4,7 +4,7 @@
 **Kowsari1382/Kowsari1382** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-oh
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +14,12 @@ oh
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello! I'm Sajjad Kowsari 👋
+
+I'm a software engineer and web developer skilled in HTML, CSS, Node.js, NestJS, Express.js, Python, Machine Learning, Flutter, C#, C++, Unity, SQL Server, MongoDB, Linux, Nginx, Docker, problem-solving, and building clean code.
+
+I'm currently an MSc student at Azad University. I'm eager to learn new things and passionate about teaching, cooperating in projects, and solving real-world problems.
+
+My main areas of expertise are backend development, software architecture, and machine learning.
+
+I hope I can help make the world a better place! 🌍
