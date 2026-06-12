@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a software engineer and web developer skilled in HTML, CSS, Node.js, NestJS, Express.js, Python, Machine Learning, Flutter, C#, C++, Unity, SQL Server, MongoDB, Git, Linux, Nginx, Docker, problem-solving, software architecture, and building clean code.
-I'm currently an MSc student at Azad University. I'm eager to learn new things and passionate about teaching, cooperating in projects, and solving real-world problems.
+I'm a software engineer and web developer skilled in HTML, CSS, Node.js, NestJS, Express.js, Typescript, Python, Machine Learning, Flutter, C#, C++, Unity, SQL Server, MongoDB, Git, Linux, Nginx, Docker, problem-solving, software architecture, and building clean code.
+I'm currently an MSc student in Software Engineering at Azad University. I'm eager to learn new things and passionate about teaching, cooperating in projects, and solving real-world problems.
 My main areas of expertise are backend development, software architecture, and machine learning.
 I hope I can help make the world a better place! 🌍
 
