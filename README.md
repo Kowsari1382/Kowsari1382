@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I'm a software engineer, web developer and data scientist skilled in HTML, CSS, Node.js, NestJS, Express.js, TypeScript, Python, Machine Learning, Flutter, C#, C++, Unity, SQL Server, MongoDB, Git, Linux, Nginx, Docker, problem-solving, software architecture, and building clean code.
 I'm currently an MSc student in Software Engineering at Azad University. I'm eager to learn new things and passionate about teaching, cooperating in projects, and solving real-world problems.
-My main areas of expertise are backend development, software architecture, and machine learning.
+My main areas of expertise are scalable backend development, software architecture, and machine learning.
 I hope I can help make the world a better place! 🌍
 
 - 🔭 I’m currently working on developing scalable backend systems and machine learning models.
