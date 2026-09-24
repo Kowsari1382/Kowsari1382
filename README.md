@@ -20,7 +20,7 @@ My main areas of expertise are scalable backend development, software architectu
 I hope I can help make the world a better place! 🌍
 
 - 🔭 I’m currently working on developing scalable backend systems and machine learning models.
-- 🌱 I’m currently learning Deep Learning.
+- 🌱 I’m currently learning ASP.NET.
 - 👯 I’m looking to collaborate on projects related to backend, AI, or developer tools.
 - 🤔 I’m looking for help with advanced system design patterns and production-grade ML deployment.
 - 💬 Ask me about Node.js, Python, C#, databases, software architecture, or how to start with machine learning.
