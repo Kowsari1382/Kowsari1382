@@ -25,8 +25,8 @@ I hope I can help make the world a better place! 🌍
 - 🤔 I’m looking for help with advanced system design patterns and production-grade ML deployment.
 - 💬 Ask me about Node.js, Python, C#, databases, software architecture, or how to start with machine learning.
 - 📫 How to reach me:
-  - Gmail: [s.kovsarii@gmail.com](mailto:s.kovsarii@gmail.com)
-  - LinkedIn: [linkedin.com/in/Kowsari](https://www.linkedin.com/in/Kowsari1382)
+  - <a href="mailto:s.kovsarii@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a>
+  - <a href="https://www.linkedin.com/in/Kowsari1382"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Sometimes I dream about my projects that I'm working on at midnight!
 ## 🛠️ Languages and Tools
